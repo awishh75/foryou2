@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Special Message</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <button class="love-button" onclick="showMessage()">❤️ Tap Me ❤️</button>
+        <h1 class="title" id="message-title">You are doing great today</h1>
+        <p class="message" id="message-content">Chin up and put your beautiful smile on, Naylyana<3</p>
+        <div id="fireworks"></div>
+        <div id="love-rain"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
